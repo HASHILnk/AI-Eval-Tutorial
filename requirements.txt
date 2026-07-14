@@ -1,0 +1,4 @@
+deepeval
+openevals
+langchain-groq
+python-dotenv
